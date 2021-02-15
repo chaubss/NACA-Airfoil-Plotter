@@ -15,3 +15,6 @@ You can the code using:
 python3 plot.py
 ```
 Enter the 4-digit NACA designation and it's plot will be shown.
+
+An example is given below:
+![](example.png)
