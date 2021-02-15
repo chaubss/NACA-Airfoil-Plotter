@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-You can the code using:
+You can run the code using:
 ```
 python3 plot.py
 ```
